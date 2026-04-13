@@ -1,6 +1,5 @@
 # Data-Processing-Challenge
 This project demonstrates foundational data engineering skills by processing a complex user dataset using standard Python libraries only. The goal was to perform data extraction, cleaning, and transformation without the use of high-level data analysis libraries like pandas or seaborn.
-To make your GitHub repository look professional, your README should clearly state the project's purpose, the specific constraints you worked under, and how to use the code.
 
 ## Project Overview
 This project demonstrates foundational data engineering skills by processing a complex user dataset using **standard Python libraries only**. The goal was to perform data extraction, cleaning, and transformation without the use of high-level data analysis libraries like `pandas` or `seaborn`.
