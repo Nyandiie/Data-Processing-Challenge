@@ -24,7 +24,7 @@ As part of this challenge, the following rules were applied to the final logic:
 * `Final Assesment.ipynb`: The main Jupyter Notebook containing the development process and final solutions.
 * `acw_user_data.csv`: The raw input dataset.
 * `AA_acw_user_data.csv`: The cleaned version of the dataset produced by the notebook.
-* `VehicleDetails.json`: (Generated) A structured JSON export of vehicle-specific data.
+* `processed.json`: (Generated) A structured JSON export of data.
 
 ## How to Use
 1.  Ensure you have a standard Python 3 installation.
