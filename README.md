@@ -27,3 +27,6 @@ As part of this challenge, the following rules were applied to the final logic:
 2.  Clone this repository.
 3.  Open `Final Assesment.ipynb` in Jupyter Notebook or VS Code.
 4.  Run the cells labeled **"FINAL ANSWER"** to execute the data processing pipeline.
+
+### Notice
+All data used is mock data, any resemblance to real world entities is purely coincidental.
